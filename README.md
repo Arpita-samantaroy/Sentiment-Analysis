@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+A comparative demonstration of sentiment analysis methods: VADER (Valence Aware Dictionary for Sentiment Reasoning) and LSTM (Long Short-Term Memory) model. VADER employs a lexicon-based approach using sentiment intensity of words to classify reviews as positive or negative. LSTM, an advanced RNN extension, was also utilized for its strong contextual understanding in analyzing sequential data like text.
